@@ -24,8 +24,5 @@ Implement user authentication.
 Develop a web-based UI with Flask or Django.
 Sort and filter bugs by status, date, etc.
 
-**Contributing**
-Feel free to fork this repository, submit issues, or suggest improvements by creating a pull request.
-
 **Output**
 ![image](https://github.com/user-attachments/assets/e3ae5755-1504-4074-b44d-70a0a660e63e)
